@@ -1,0 +1,19 @@
+Connect to POWER BI 
+
+
+Go to powerbi.microsoft.com 
+--> products --> power bi desktop --> 
+click on download or  See download or language options --> 
+choose based on your system configurations --> 
+download --> install
+
+open power bi --> click on get data icon -->
+search for snowflake select and click on connect-->
+
+pass Server as eca44178.us-east-1.snowflakecomputing.com
+	 warehouse : compute_wh
+	 click ok
+
+user: In real time we need to create dedicated warehouse and user for BI team,
+that user need to use to login here.
+but now we use sudhakar as username.
